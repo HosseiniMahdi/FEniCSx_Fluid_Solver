@@ -1,0 +1,12 @@
+fenics-dolfinx==0.9.0
+fenics-basix==0.9.0
+fenics-ffcx==0.9.0
+fenics-ufl==2024.2.0
+petsc4py==3.19.6
+slepc4py==3.19.2
+mpi4py==3.1.5
+gmsh==4.12.1.dev1
+pyvista==0.44.1
+numpy==1.26.4
+matplotlib==3.6.3
+psutil==5.9.8
