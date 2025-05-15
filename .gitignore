@@ -1,0 +1,12 @@
+__pycache__/
+*.vtu
+*.pvd
+*.bp
+*.xdmf
+*.csv
+*.log
+*.ipynb_checkpoints
+.DS_Store
+.vscode/
+results/
+build/
