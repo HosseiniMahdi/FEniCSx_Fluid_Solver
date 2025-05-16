@@ -20,4 +20,4 @@ sudo apt install fenicsx
 
 ## Simulations
 
-The python scripts for the different setups are located in src` folder.
+The python scripts for different setups are located in the `src` folder.
